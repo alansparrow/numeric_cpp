@@ -1,0 +1,3 @@
+﻿  Numeric.cpp
+c:\users\baotrungtn\desktop\c++\numeric\numeric\numeric.cpp(16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Numeric.vcxproj -> C:\Users\baotrungtn\Desktop\C++\Numeric\Debug\Numeric.exe
